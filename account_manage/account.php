@@ -1,5 +1,5 @@
 <?php
-session_start();
+
 header("Content-type: text/html; charset=utf-8");
 include("../check_fun.php");
 require_once("../dbtools.inc.php");
